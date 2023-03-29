@@ -3,7 +3,7 @@ public class Strings4 {
 
 	public static void main(String[] args) {
 		String str = "abc ABC 123 abc 123";
-		String strNew = str.replace("123", "bet");
+		String strNew = str.replace('1', '6'); //Karakter bazında
 		String strNew2= str.replaceAll("123", "HELLO");
 		//bir karakteri kaldır ve yerine başka bir şey koy demek.
 		System.out.println(strNew);
