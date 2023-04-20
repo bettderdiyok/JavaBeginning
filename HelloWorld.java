@@ -22,6 +22,14 @@ public class HelloWorld {
          Çoklu yorum satırı
          
          */
+		
+		 // Javadoc
+                    /**
+                     * Otomatikleştirerek bir döküman haline getiriliyor.
+                     * @author Betül Ekren, 2023
+                     *
+                     */
+
 	}
 
 }
