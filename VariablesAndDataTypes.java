@@ -29,6 +29,9 @@ public class VariablesAndDataTypes {
 		char letter2 = 'B';
 		System.out.println((int)letter2); // ASCII Table
 		
+		char letter3 = 66;
+                System.out.println(letter3);
+		
 		boolean why=true; // ya true ya false olmalı
 		System.out.println(why);
 		
