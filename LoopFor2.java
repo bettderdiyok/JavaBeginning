@@ -14,6 +14,7 @@ public class LoopFor2 {
 			}
 			System.out.println(i);			
 		}
+		System.out.println(2);		
 
 	}
 
